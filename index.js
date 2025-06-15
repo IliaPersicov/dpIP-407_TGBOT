@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 const token = '7649558071:AAFztosTagONDQHU3K-8Z3BMLfmOcoV9jwE';
-const webAppUrl = 'https://ya.ru'
+const webAppUrl = 'https://dp-ip-407-tgbot-iliapersicovs-projects.vercel.app/'
 const bot = new TelegramBot(token, {polling: true});
 
 
